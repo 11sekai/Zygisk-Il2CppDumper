@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "com.pineapple.merge.number.blast"
+          description: "package name: "
           required: true
 
 jobs:
